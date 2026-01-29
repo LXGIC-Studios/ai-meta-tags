@@ -1,5 +1,10 @@
 # ai-meta-tags
 
+[![npm version](https://img.shields.io/npm/v/ai-meta-tags.svg)](https://www.npmjs.com/package/ai-meta-tags)
+[![npm downloads](https://img.shields.io/npm/dm/ai-meta-tags.svg)](https://www.npmjs.com/package/ai-meta-tags)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Scan any URL or HTML file and get the meta tags you're missing. SEO basics, Open Graph, Twitter cards. It reads your page content and generates tags that actually match what's on the page.
 
 ## Install
