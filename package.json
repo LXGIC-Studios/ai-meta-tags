@@ -1,7 +1,7 @@
 {
   "name": "ai-meta-tags",
   "version": "1.0.0",
-  "description": "Generate missing SEO meta tags, Open Graph, and Twitter cards",
+  "description": "AI-powered meta tag generator - SEO and social media tags with GPT optimization",
   "main": "dist/index.js",
   "bin": {
     "ai-meta-tags": "dist/cli.js"
@@ -10,11 +10,21 @@
     "build": "tsc"
   },
   "keywords": [
-    "seo",
+    "ai",
+    "openai",
+    "gpt",
     "meta-tags",
-    "opengraph",
-    "twitter-card",
-    "cli"
+    "seo",
+    "og",
+    "twitter-cards",
+    "html",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "social",
+    "open-graph"
   ],
   "license": "MIT",
   "dependencies": {
