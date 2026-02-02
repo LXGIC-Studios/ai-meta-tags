@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "AI-powered meta tag generator - SEO and social media tags with GPT optimization",
   "main": "dist/index.js",
+  "types": "./dist/index.d.ts",
   "bin": {
     "ai-meta-tags": "dist/cli.js"
   },
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "tsc"
   },
@@ -29,7 +34,27 @@
     "social",
     "open-graph"
   ],
+  "author": "LXGIC Studios",
   "license": "MIT",
+  "homepage": "https://github.com/LXGIC-Studios/ai-meta-tags#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXGIC-Studios/ai-meta-tags"
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/ai-meta-tags/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "dependencies": {
     "cheerio": "^1.0.0",
     "commander": "^12.1.0",
@@ -39,10 +64,5 @@
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
-  },
-  "author": "LXGIC Studios",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-meta-tags"
   }
 }
