@@ -45,3 +45,12 @@ It tells you what's missing and gives you the HTML to paste into your `<head>`. 
 ## License
 
 MIT
+
+
+---
+
+Built by [LXGIC Studios](https://github.com/LXGIC-Studios)
+
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
