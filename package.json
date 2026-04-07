@@ -1,5 +1,5 @@
 {
-  "name": "ai-meta-tags",
+  "name": "@lxgicstudios/ai-meta-tags",
   "version": "1.0.0",
   "description": "AI-powered meta tag generator - SEO and social media tags with GPT optimization",
   "main": "dist/index.js",
