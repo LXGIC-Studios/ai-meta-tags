@@ -46,7 +46,9 @@
     "seo-tools",
     "technical-seo",
     "utility",
-    "web-optimization"
+    "web-optimization",
+    "ai-powered",
+    "lxgic"
   ],
   "license": "MIT",
   "main": "dist/index.js",
