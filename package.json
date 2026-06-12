@@ -47,8 +47,11 @@
     "technical-seo",
     "utility",
     "web-optimization",
-    "ai-powered",
-    "lxgic"
+    "lxgic",
+    "core-update-ready",
+    "google-ai-overviews",
+    "eeat-seo",
+    "may-2026-update"
   ],
   "license": "MIT",
   "main": "dist/index.js",
