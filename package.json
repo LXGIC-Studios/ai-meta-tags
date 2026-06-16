@@ -8,7 +8,7 @@
     "ai-meta-tags": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-meta-tags/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
@@ -32,26 +32,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-meta-tags#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-meta-tags",
   "keywords": [
-    "2026-standards",
-    "AI-optimized",
-    "AI-powered",
-    "automation",
-    "best-practices",
-    "cli",
-    "developer-tools",
-    "modern-seo",
-    "performance",
-    "seo-tools",
-    "technical-seo",
-    "utility",
-    "web-optimization",
-    "lxgic",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "meta-tags",
+    "seo",
+    "open-graph",
+    "twitter-card",
+    "html-head"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -62,7 +49,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-meta-tags"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-meta-tags"
   },
   "scripts": {
     "build": "tsc"
