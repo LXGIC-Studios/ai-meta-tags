@@ -46,7 +46,9 @@
     "seo-audit",
     "site-architecture",
     "technical-seo",
-    "twitter-card"
+    "twitter-card",
+    "2026-standards",
+    "modern-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
