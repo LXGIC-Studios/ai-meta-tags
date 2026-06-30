@@ -34,21 +34,12 @@
   },
   "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-meta-tags",
   "keywords": [
-    "ai-search-optimization",
     "canonical-urls",
-    "generative-engine-optimization",
-    "geo",
     "html-head",
-    "may-2026-core-update",
     "meta-tags",
     "open-graph",
-    "seo",
-    "seo-audit",
     "site-architecture",
-    "technical-seo",
-    "twitter-card",
-    "2026-standards",
-    "modern-seo"
+    "twitter-card"
   ],
   "license": "MIT",
   "main": "dist/index.js",
